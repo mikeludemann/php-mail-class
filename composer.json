@@ -1,0 +1,13 @@
+{
+    "name": "mikeludemann/php-mail-class",
+    "description": "Mail Helper Class",
+    "type": "helper-class",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Ludemann",
+            "email": "mike-ludemann@hotmail.de"
+        }
+    ],
+    "require": {}
+}
